@@ -1,19 +1,14 @@
-import About from "./components/about/About";
-import Contact from "./components/contact/Contact";
-import Home from "./components/home/Home";
-import Navbar from "./components/navbar/Navbar";
-import Projects from "./components/projects/Projects";
-import Skills from "./components/skills/Skills";
+import { About, Footer, Header, Skills, Testimonial, Work } from "./container";
 
 function App() {
   return (
-    <div>
-      <Navbar />
-      <Home />
+    <div className="app">
+      <Header />
       <About />
+      <Work />
       <Skills />
-      <Projects />
-      <Contact />
+      <Testimonial />
+      <Footer />
     </div>
   );
 }
