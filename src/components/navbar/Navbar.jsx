@@ -5,13 +5,13 @@ const Navbar = () => {
   return (
     <nav>
       <div>
-        <img src={images.micael} alt="logo" />
+        <img src={images.logo} alt="logo" />
       </div>
       <ul>
         {["home", "about", "work", "skills", "contact"].map((item) => (
           <li key={`link-${item}`}>
             <div />
-            <a href={"#${item}"}>{item}</a>
+            <a href={`#${item}`}>{item}</a>
           </li>
         ))}
       </ul>
