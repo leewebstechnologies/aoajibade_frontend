@@ -31,10 +31,14 @@ import bolt from "../assets/bolt.png";
 import nb from "../assets/nb.png";
 import skype from "../assets/skype.png";
 import spotify from "../assets/spotify.png";
+import bootstrap from "../assets/bootstrap.png";
+import ps from "../assets/ps.png";
 
 // eslint-disable-next-line
 export default {
   email,
+  ps,
+  bootstrap,
   mobile,
   api,
   cpp,
