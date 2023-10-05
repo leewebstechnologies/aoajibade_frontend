@@ -16,6 +16,8 @@ import react from "../assets/react.png";
 import redux from "../assets/redux.png";
 import sass from "../assets/sass.png";
 import about01 from "../assets/about01.png";
+import about1 from "../assets/about1.png";
+import about2 from "../assets/about2.png";
 import about02 from "../assets/about02.png";
 import about03 from "../assets/about03.png";
 import about04 from "../assets/about04.png";
@@ -54,6 +56,8 @@ export default {
   redux,
   sass,
   about01,
+  about1,
+  about2,
   about02,
   about03,
   about04,
