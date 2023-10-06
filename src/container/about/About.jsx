@@ -4,6 +4,11 @@ import { images } from "../../constants";
 
 const abouts = [
   {
+    title: "Web Development",
+    description: "I am a good web developer",
+    imageUrl: images.about0,
+  },
+  {
     title: "Frontend Development",
     description: "I am a good frontend developer",
     imageUrl: images.about1,
@@ -12,6 +17,11 @@ const abouts = [
     title: "Backend Development",
     description: "I am a good backend developer",
     imageUrl: images.about2,
+  },
+  {
+    title: "MERN Stack",
+    description: "I am a good MERN Stack developer",
+    imageUrl: images.about04,
   },
   {
     title: "Graphic Design",
