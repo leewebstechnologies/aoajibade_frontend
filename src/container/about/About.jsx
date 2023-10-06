@@ -14,14 +14,14 @@ const abouts = [
     imageUrl: images.about2,
   },
   {
-    title: "Graphic Designer",
+    title: "Graphic Design",
     description: "I am a good graphic designer",
-    imageUrl: images.about03,
+    imageUrl: images.about3,
   },
   {
     title: "Arabic and Islamic Education",
     description: "I am a good teacher",
-    imageUrl: "",
+    imageUrl: images.about4,
   },
 ];
 
